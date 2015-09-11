@@ -1,0 +1,1 @@
+# This directory contains python logic server scripts of hekadev project
